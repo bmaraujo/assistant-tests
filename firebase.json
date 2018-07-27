@@ -1,0 +1,28 @@
+{
+  "name": "testProfiling",
+  "description": "Project to test everything related to Profile on AoG",
+  "version": "0.0.1",
+  "author": "Bruno Araújo",
+  "engines": {
+    "node": "~4.2"
+  },
+  "dependencies": {
+    "actions-on-google": "^1.0.0",
+    "firebase-admin": "^4.2.1",
+    "firebase-functions": "^0.5.7"
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

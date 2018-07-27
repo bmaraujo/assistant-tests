@@ -1,0 +1,12 @@
+{
+	"WELCOME":"Teste do Bruno. Já sabe o que fazer né?",
+	"WELCOME_SUGGESTIONS" : ["Me dê uma dica","Testar base de dados","Toca uma música"],
+	"TIPS" : ["Nunca pingue limão no seu olho.","Em terra de cego, quem tem olho é caolho."],
+	"SUGGESTION_NOTIFICATIONS" : "Me alerte de novas dicas",
+	"FIN_NOTF_SET_YES" : "vou começar a lhe mandar alertas.",
+	"FIN_NOTF_SET_NO" : "não irei enviar alertas." ,
+	"SHOW_PRODUCTS" : "Qual você quer adicionar ao carrinho?",
+	"ADD_ITEM_CART" : "$1 adicionado ao seu carrinho, quer adicionar mais alguma coisa ou fechar o pedido",
+	"DELIVERY_ADDRESS_JUSTI" : "Para saber para onde mandar o pedido",
+	"TRANSACTION_COMPLETE" : "Tudo certo, obrigado pela compra."
+}

@@ -1,0 +1,35 @@
+
+{
+	"sku01" : {
+		"title" : "Player Unknown Battlegrounds",
+		"synonyms" : ["PUGB","Battlegrounds", "Player Unknown"],
+		"description" : "A battle royale shooter that puts 100 players against each other in a struggle for survival.",
+		"price" : "55.99",
+		"image_url": "https://steamcdn-a.akamaihd.net/steam/apps/578080/header.jpg?t=1525138879",
+		"img_alt": "PUGB"
+	},
+	"sku02" : {
+		"title" : "Arma III",
+		"synonyms" : ["Arma","Arma 3"],
+		"description" : "Experience true combat gameplay in a massive military sandbox.",
+		"price" : "89.99",
+		"image_url": "https://steamcdn-a.akamaihd.net/steam/apps/107410/header.jpg?t=1524502112",
+		"img_alt": "Arma"
+	},
+	"sku03" : {
+		"title" : "Squad",
+		"synonyms" : ["Squad"],
+		"description" : "Squad is a 50 vs 50 multiplayer first-person shooter that aims to capture combat realism through communication and teamplay.",
+		"price" : "72.99",
+		"image_url": "https://steamcdn-a.akamaihd.net/steam/apps/393380/header.jpg?t=1527101610",
+		"img_alt": "Squad"
+	},
+	"sku04" : {
+		"title" : "Insurgency",
+		"synonyms" : ["Insurgency"],
+		"description" : "Take to the streets for intense close quarters combat, where a team's survival depends upon securing crucial strongholds and destroying enemy supply in this multiplayer and cooperative Source Engine based experience.",
+		"price" : "19.99",
+		"image_url": "https://steamcdn-a.akamaihd.net/steam/apps/222880/header.jpg?t=1514661178",
+		"img_alt": "Insurgency"
+	},
+}

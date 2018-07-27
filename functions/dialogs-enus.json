@@ -1,0 +1,12 @@
+{
+	"WELCOME":"Bruno's test, you know what to do",
+	"WELCOME_SUGGESTIONS" : ["Tell me a tip","Test database","Play a song", "Buy something"],
+	"TIPS" : ["Never drop lemon juice on your eyes.","Never test the depth of the water with both feet"],
+	"SUGGESTION_NOTIFICATIONS" : "Send me updates",
+	"FIN_NOTF_SET_YES" : "I will start to send you updates.",
+	"FIN_NOTF_SET_NO" : "I will not send you updates." ,
+	"SHOW_PRODUCTS" : "Which one you want to add to your cart?",
+	"ADD_ITEM_CART" : "$1 added to your cart. Do you want to add anything else or confirm the order?",
+	"DELIVERY_ADDRESS_JUSTI" : "To know where to send the order",
+	"TRANSACTION_COMPLETE" : "Alright, thanks for your purchase."
+}
