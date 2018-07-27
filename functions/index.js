@@ -33,7 +33,7 @@ const GENERIC_EXTENSION_TYPE =
   'type.googleapis.com/google.actions.v2.orders.GenericExtension';
 
 const config = {
-	apiKey: "AIzaSyAonUF_C100wtzju5CE2jL7Be8NpsndTUY",
+	apiKey: "",
 	authDomain: "testprofiling-20d85.firebaseapp.com",
 	databaseURL: "https://testprofiling-20d85.firebaseio.com",
 	storageBucket: "testprofiling-20d85.appspot.com"
